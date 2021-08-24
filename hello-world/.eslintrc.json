@@ -1,0 +1,4 @@
+// Configuration file for eslint
+{
+  "extends": "next/core-web-vitals"
+}
